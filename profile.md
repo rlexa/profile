@@ -71,7 +71,28 @@
 
 Chronologically descending.
 
-### 05/2017 - 03/2019 **DB Energie** (SPA Client with HTML5/CSS3, Angular, Typescript)
+### 04/2019 - today **[KION GROUP AG](https://www.kiongroup.com)** (SPA Client with HTML5/CSS3, Angular, Typescript)
+
+* Tasks:
+  * WebClients development with Angular 2~7, Typescript
+    * Server-Side-Rendering
+    * Microfrontends
+* Info
+  * UI Clients for internal use
+* Orga
+  * Architect and Developer, 10 ppl.
+* Tech
+  * HTML5/CSS3 (Sass, Less)
+  * Angular 2~7 (Javascript, Typescript)
+  * Rxjs
+  * Redux, Ngrx
+  * Web LocalStorage, Cookies
+  * PrimeNG
+  * CI, Unit Testing and Deployment via Jenkins
+* Phase:
+  * Production
+
+### 05/2017 - 03/2019 **[DB Energie](https://www.dbenergie.de)** (SPA Client with HTML5/CSS3, Angular, Typescript)
 
 * Tasks:
   * From-Zero: WebUI Client
@@ -103,7 +124,7 @@ Chronologically descending.
 * Phase:
   * Production
 
-### 10/2016 - 04/2017 **Mediatis** (SPA Client with HTML5/CSS3, AngularJS, Typescript, Backend with C#, SQL)
+### 10/2016 - 04/2017 **[Mediatis](https://www.mediatis.de/)** (SPA Client with HTML5/CSS3, AngularJS, Typescript, Backend with C#, SQL)
 
 * Tasks:
   * offline available WebApp
@@ -122,7 +143,7 @@ Chronologically descending.
 * Phase
   * Production
 
-### 02/2016 - 09/2016 **livedooh** (ChromeApp MediaPlayer with AngularJS, SPA Client with AngularJS, Backend with C#, MongoDB)
+### 02/2016 - 09/2016 **[livedooh](https://www.livedooh.com/)** (ChromeApp MediaPlayer with AngularJS, SPA Client with AngularJS, Backend with C#, MongoDB)
 
 * Tasks
   * offline available hybrid Web/Chrome App
@@ -160,7 +181,7 @@ Chronologically descending.
 * Phase
   * Production, available for download
 
-### 01/2016 **KomAn, Brandmasters** (Consulting for qooxdoo, Metaforce)
+### 01/2016 **KomAn, [Brandmasters](https://www.brandmasters.de/de/)** (Consulting for qooxdoo, Metaforce)
 
 * Tasks
   * Consulting for Metaforce Client and PHP PostgreSQL Backend
@@ -190,7 +211,7 @@ Chronologically descending.
 * Phase
   * Production, available for download
 
-### 03/2015 - 12/2015 **Envision Entertainment** ("CnC Tiberium Alliances" product)
+### 03/2015 - 12/2015 **[Envision Entertainment](https://www.envision-entertainment.de/)** ("CnC Tiberium Alliances" product)
 
 * Tasks
   * WebUI (qooxdoo, HTML5/CSS3, Javascript, JSON)
@@ -230,7 +251,7 @@ Chronologically descending.
 * Phase
   * live since 2011 (alliances.commandandconquer.com/)
 
-### 06/2013 - 12/2014 **Jeppesen Norway AS, a Boeing Company** (Data synchronisation between heterogenous database models and geografically distributed systems)
+### 06/2013 - 12/2014 **[Jeppesen](http://ww1.jeppesen.com/) Norway AS, a Boeing Company** (Data synchronisation between heterogenous database models and geografically distributed systems)
 
 * Tasks
   * Backend (DB model and operations)
@@ -272,7 +293,7 @@ Chronologically descending.
 * Phase
   * Prototype done and accepted
 
-### 08/2012 - 03/2013 **EA Phenomic** ("CnC Tiberium Alliances" product mobile client)
+### 08/2012 - 03/2013 **[EA Phenomic](https://en.wikipedia.org/wiki/EA_Phenomic)** ("CnC Tiberium Alliances" product mobile client)
 
 * Tasks
   * UI via qooxdoo and HTML5/CSS3, Features
@@ -283,7 +304,7 @@ Chronologically descending.
 * Phase
   * Production (alliances.commandandconquer.com/)
 
-### 01/2012 - 07/2012 **EA Phenomic** ("CnC Tiberium Alliances" product browser client)
+### 01/2012 - 07/2012 **[EA Phenomic](https://en.wikipedia.org/wiki/EA_Phenomic)** ("CnC Tiberium Alliances" product browser client)
 
 * Tasks
   * UI via qooxdoo and HTML5/CSS3, Features
@@ -324,7 +345,7 @@ Chronologically descending.
   * Phase
     * Production
 
-### 05/2011 - 01/2012 **EA Phenomic** ("Lord of Ultima" product browser client)
+### 05/2011 - 01/2012 **[EA Phenomic](https://en.wikipedia.org/wiki/EA_Phenomic)** ("Lord of Ultima" product browser client)
 
 * Tasks
   * UI via qooxdoo and HTML5/CSS3, Features
@@ -413,7 +434,7 @@ Chronologically descending.
 * Phase
   * Prototype ready, not on GooglePlay
 
-### 04/2009 - 08/2010 **Advancis Software&Services** (WinGuard product, security overview system)
+### 04/2009 - 08/2010 **[Advancis Software&Services](https://advancis.net)** (WinGuard product, security overview system)
 
 * MultiThreading/-Tasking Engine- for WinGuard (Installation Security Overview System)
   * Info: semi-controlled automatic parallelisation of business processes
@@ -496,7 +517,7 @@ Chronologically descending.
   * Tech: XProtect SDK
   * Phase: production
 
-### 12/2008 - 03/2009 **rocketsciencegames** ("Deutschland Singt Online" PC Game)
+### 12/2008 - 03/2009 **[rocketsciencegames](https://en.wikipedia.org/wiki/Rocket_Science_Games)** ("Deutschland Singt Online" PC Game)
 
 * Info
   * Karaoke game with licensed music videos, webcam-recording etc.
@@ -531,7 +552,7 @@ Chronologically descending.
   * Orga: developer and lead
   * Tech: Encryption, SecuRom
 
-### 09/2007 - 12/2007 **rocketsciensegames** ("Tabaluga" Nindendo DS game)
+### 09/2007 - 12/2007 **[rocketsciensegames](https://en.wikipedia.org/wiki/Rocket_Science_Games)** ("Tabaluga" Nindendo DS game)
 
 * Info
   * Child friendly Jump&Run
