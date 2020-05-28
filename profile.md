@@ -76,7 +76,7 @@ Chronologically descending.
 ### 04/2019 - today **[KION GROUP AG](https://www.kiongroup.com)** (SPA Client with HTML5/CSS3, Angular, Typescript)
 
 - Tasks:
-  - WebClients (Angular 2~8 Typescript Rxjs, PrimeNG)
+  - WebClients (Angular 2~9 Typescript Rxjs, PrimeNG)
     - Server-Side-Rendering
     - Microfrontends
       - incl. Transclusion (frontend-in-frontend)
@@ -102,7 +102,7 @@ Chronologically descending.
   - Architect and Developer, team ca. 10 ppl.
 - Tech
   - HTML5/CSS3 (Sass, Less)
-  - Angular 2~8 (Javascript, Typescript)
+  - Angular 2~9 (Javascript, Typescript)
   - Rxjs
   - Redux, Ngrx
   - Web LocalStorage, Web SessionStorage
