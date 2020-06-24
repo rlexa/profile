@@ -4,6 +4,8 @@
 
 **Current focus: Angular/Typescript Frontend/Fullstack.**
 
+- Architect
+  - Angular 2~ Frontend
 - Expert
   - Rapid Prototyping (rapid learning and prototype development)
     - Incl. documentation, drivers, unittests and customer communication if needed
@@ -73,7 +75,7 @@
 
 Chronologically descending.
 
-### 04/2019 - today **[KION GROUP AG](https://www.kiongroup.com)** (SPA Client with HTML5/CSS3, Angular, Typescript)
+### 04/2019 - 08/2020 **[KION GROUP AG](https://www.kiongroup.com)** (SPA Client with HTML5/CSS3, Angular, Typescript)
 
 - Tasks:
   - WebClients (Angular 2~9 Typescript Rxjs, PrimeNG)
