@@ -4,23 +4,22 @@
 
 **Current focus: Angular/Typescript Frontend/Fullstack.**
 
-- Architect
-  - Angular 2~ Frontend
+- Currently Architect / Senior level:
+  - Angular Frontend/Fullstack
 - Expert
   - Rapid Prototyping (rapid learning and prototype development)
     - Incl. documentation, drivers, unittests and customer communication if needed
   - Reverse Engineering
     - Analysis and reconfiguration/refactoring/maintenance of legacy code
+    - Performance monitoring and optimization
   - Frontend: concept and implementation of user interfaces
-    - e.g. WebApps (HTML5/CSS3, Javascript, Frameworks like Angular), WYSIWYG UI editors, charts, graphics programming)
-    - Angular (Angular 2~8) UI Architect, Fullstack
+    - Tech. stack: HTML5/CSS3, Javascript, SPA Frameworks like Angular
+    - Complex examples: WYSIWYG UI editor, charts, graphics programming
   - Backend: Java, C# (JPA, Hibernate, xSQL, Mongo, Amazon AWS SNS/SQS/S3), NPM (Javascript, Typescript, Express)
     - experience with data synchronization between heterogenous systems
   - Services: Java, C# (RESTlet, ServiceStack, Services, data transfer)
-    - experience with performance optimization of existing systems
-- Project Lead
-  - Experience as project lead for small to middle scale projects (estimated 3-9 months running time)
-    - incl. customer relations and team oriented project leadership
+- Tech. Lead
+  - Experience as lead for small teams (incl. customer relations and req. engineering)
 - Trainer
   - Basics of computer science (and object-oriented C++, Java, also Javascript)
   - Basics of Android application development
@@ -31,7 +30,7 @@
 - Languages (fluent): German, English, Russian
 - Science Degree: Master of Computer Science
 - Trainer experience: lectureship at HDA Darmstadt
-- Misc. work experience (chronological descending):
+- Misc. work experience (chronologically descending):
   - (see projects further below)
 
 ## Acquired Skills
@@ -46,6 +45,7 @@
 | Android                | Eclipse (ADT Plugin), Java, OpenGL ES 2.0                                                                                                                   |
 | Nintendo DS            | NITRO SDK, C++/C                                                                                                                                            |
 | PC (Unix)              | Eclipse, GDB, Makefiles, C++                                                                                                                                |
+| Docker | Kubernetes, HELM |
 
 ### Programming Skills
 
@@ -53,8 +53,8 @@
 | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
 | C#                                                          | Driver, Interfaces, .NET, Backend, Reflection, Services                                               |
 | Java, XML, BATch, PostgreSQL, MySQL, MongoDB                | Server modules, network interfaces, Android apps, Amazon AWS framework (SNS/SQS/S3...), RESTlets etc. |
-| Javascript, Typescript, JSON, HTML/CSS, Angular, Rxjs, D3js | WebApps, GUIs                                                                                         |
-| C++GUIs, business logic, graphics etc.                      |
+| Javascript, Typescript, JSON, HTML/CSS, Angular, Rxjs, D3js | WebApps, GUIs, NodeJS microservices and servers                                                       |
+| C++                                                         | GUIs, business logic, graphics etc.                                                                   |
 | HLSL Shader, Lua, Python, VBA                               | Scripts, visual effects                                                                               |
 | C                                                           | Proprietary environments                                                                              |
 | Smalltalk, PHP, Unix AWK, Unix Shellscript                  | Misc.                                                                                                 |
