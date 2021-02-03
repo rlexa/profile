@@ -45,7 +45,7 @@
 | Android                | Eclipse (ADT Plugin), Java, OpenGL ES 2.0                                                                                                                   |
 | Nintendo DS            | NITRO SDK, C++/C                                                                                                                                            |
 | PC (Unix)              | Eclipse, GDB, Makefiles, C++                                                                                                                                |
-| Docker | Kubernetes, HELM |
+| Docker                 | Kubernetes, HELM                                                                                                                                            |
 
 ### Programming Skills
 
@@ -74,6 +74,83 @@
 ## Projects
 
 Chronologically descending.
+
+### 01/2021 - ... **[KION GROUP AG](https://www.kiongroup.com)** (SPA Client with HTML5/CSS3, Angular, Typescript)
+
+- Tasks:
+  - WebClients (Angular 11~ Typescript Rxjs, PrimeNG)
+    - Microfrontends
+      - Angular/PrimeNG development and maintenance
+      - incl. Transclusion (frontend-in-frontend)
+      - PDF contract generation in client
+    - Libraries
+      - shared code NPM library
+      - theme css NPM library
+      - localization NPM library
+      - Angular widget NPM library
+    - Internationalization
+      - i18n with WebTranslateit (per frontend project)
+      - custom implementation of turning XLF into CSV for dynamic language resolution at runtime
+    - Authentication/Authorization
+      - handling oauth2 for multiple frontends
+    - Feature Toggles
+      - separating technical releases from business releases using flags and toggles
+    - Real time user monitoring
+      - in NodeJS server
+      - in Angular clients
+  - Auth Server (NPM Typescript)
+    - single auth point for multiple microfrontends
+  - Media Servier (NPM Typescript)
+    - asset and image delivery solution
+  - Backend (Java Spring, OpenApi)
+    - Web services for frontend
+  - DevOps (Jenkins, YAML, Docker, Kubernetes, Azure)
+    - Infrastructure by code
+- Info
+  - UI clients and portals for internal use (management of forklift resources and contracts)
+    - tables, lists and details of contracts and assets
+    - complex forms for commercial contract creation
+- Orga
+  - Architect and Developer, team ca. 10 ppl.
+- Tech
+  - HTML5/CSS3 (Sass)
+  - Angular 11~ (Javascript, Typescript)
+  - Rxjs
+  - Redux, Ngrx
+  - Web LocalStorage, Web SessionStorage
+  - PrimeNG
+  - CI and Deployment via Jenkins
+  - Unit Testing via Jest, mocking
+  - NPM servers (Javascript, Typescript, Express, Webpack)
+  - i18n localization
+- Phase:
+  - Production
+
+### 09/2020 - 12/2020 **devdroy** (PWA with Angular)
+
+- Tasks:
+  - Create app as PWA which should work as app on Android and as SPA in the browser
+- Info
+  - Progressive Web Application (installable as app on Android) for viewing song chords
+  - prototype only: proof of concept incl.:
+    - PWA features (offline available)
+    - UI: list of artists, list of artist songs, song view (with and without chords)
+    - own simple format for storing songs with chords
+    - sync of remote songs to local IndexedDB for offline availability
+    - sharing of selected song from within the app
+- Orga
+  - Architect/Developer/Designer, 1 ppl.
+- Tech
+  - HTML5/CSS3 (Sass)
+  - Angular 11 (Javascript, Typescript)
+  - Rxjs
+  - Web LocalStorage
+  - Web IndexedDB (incl. synchronization, version upgrade)
+  - Firebase hosting
+  - Travis CI/CD
+  - Unit Testing via Jest, mocking
+- Phase:
+  - Production [dd-chords](https://dd-chords.web.app/)
 
 ### 04/2019 - 08/2020 **[KION GROUP AG](https://www.kiongroup.com)** (SPA Client with HTML5/CSS3, Angular, Typescript)
 
