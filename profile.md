@@ -96,7 +96,7 @@ Chronologically descending.
   - PoC
 
 
-### 04/2019 - (08/2020 Corona Break 12/2020) - 06/2021 **[KION GROUP AG](https://www.kiongroup.com)** (SPA Client with HTML5/CSS3, Angular, Typescript)
+### 01/2021 - 06/2021 **[KION GROUP AG](https://www.kiongroup.com)** (ALE project, SPA Client with HTML5/CSS3, Angular, Typescript)
 
 - Tasks:
   - WebClients (Angular 11~ Typescript Rxjs, PrimeNG)
@@ -131,6 +131,7 @@ Chronologically descending.
   - UI clients and portals for internal use (management of forklift resources and contracts)
     - tables, lists and details of contracts and assets
     - complex forms for commercial contract creation
+    - complex forms for renting assets in external marketplaces
 - Orga
   - Architect and Developer, team ca. 10 ppl.
 - Tech
@@ -173,7 +174,7 @@ Chronologically descending.
 - Phase:
   - Production [dd-chords](https://dd-chords.web.app/)
 
-### 04/2019 - 08/2020 **[KION GROUP AG](https://www.kiongroup.com)** (SPA Client with HTML5/CSS3, Angular, Typescript)
+### 04/2019 - 08/2020 **[KION GROUP AG](https://www.kiongroup.com)** (PURE project, SPA Client with HTML5/CSS3, Angular, Typescript)
 
 - Tasks:
   - WebClients (Angular 2~11 Typescript Rxjs, PrimeNG)
