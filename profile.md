@@ -5,7 +5,7 @@
 **Current focus: Angular/Typescript Frontend/Fullstack.**
 
 - Currently Architect / Senior level:
-  - Angular Frontend/Fullstack
+  - Angular Frontend (Fullstack)
 - Expert
   - Rapid Prototyping (rapid learning and prototype development)
     - Incl. documentation, drivers, unittests and customer communication if needed
