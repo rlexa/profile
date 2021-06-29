@@ -75,10 +75,30 @@
 
 Chronologically descending.
 
-### 04/2019 - 08/2020 **[KION GROUP AG](https://www.kiongroup.com)** (SPA Client with HTML5/CSS3, Angular, Typescript)
+### 07/2021 - today **[RWE](https://www.group.rwe/)** (SPA Client with HTML5/CSS3, Angular Library, Angular, Typescript)
+- Tasks:
+  - SPA WebClients (Angular 12~ Typescript Rxjs, Angular Material)
+  - Libraries (Typescript/Javascript, Angular components)
+  - Theming (CSS3)
+- Info
+  - UI clients and portals for intranet use (management of energy park assets)
+  - Ever growing library of widgets and code for intranet use in other teams
+- Orga
+  - Architect and Developer, team ca. 5 ppl.
+- Tech
+  - HTML5/CSS3 (SCSS)
+  - Angular 12~ (Javascript, Typescript)
+  - Rxjs
+  - Web LocalStorage, Web SessionStorage
+  - Angular Material
+  - Unit Testing via Karma/Jasmine, Jest, mocking
+- Phase:
+  - PoC
+
+### 04/2019 - (08/2020 Corona Break 12/2020) - 06/2021 **[KION GROUP AG](https://www.kiongroup.com)** (SPA Client with HTML5/CSS3, Angular, Typescript)
 
 - Tasks:
-  - WebClients (Angular 2~9 Typescript Rxjs, PrimeNG)
+  - WebClients (Angular 2~11 Typescript Rxjs, PrimeNG)
     - Server-Side-Rendering
     - Microfrontends
       - incl. Transclusion (frontend-in-frontend)
