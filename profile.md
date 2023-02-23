@@ -76,25 +76,43 @@
 Chronologically descending.
 
 ### 07/2021 - today **[RWE](https://www.group.rwe/)** (SPA Client with HTML5/CSS3, Angular Library, Angular, Typescript)
+
 - Tasks:
   - SPA WebClients (Angular 12~ Typescript Rxjs, Angular Material)
+    - energy volume nominations, asset outages (tables, charts, dashboard, forms)
+      - SPA client for external users
+      - SPA client for internal admins
+    - asset and asset group management (tables, lists, complex forms)
+      - SPA client for internal admins
+    - energy forecast management (complex custom table with inline functionality, protfolios)
+      - SPA client for external users
+      - SPA client for internal admins
+    - misc. data curves (complex charts for lines and correlations thereof)
+      - SPA client for external users
+      - SPA client for internal admins
   - Libraries (Typescript/Javascript, Angular components)
+    - "Unity" Angular library for internal use in the whole RWE company
+      - wrappers for material elements
+      - util modules for translation, locale loading, error handling etc.
+      - shared pipes, directives, components etc.
   - Theming (CSS3)
 - Info
   - UI clients and portals for intranet use (management of energy park assets)
   - Ever growing library of widgets and code for intranet use in other teams
+  - Workshops and trainings for Typescript, Angular, Functional Programming Concepts
 - Orga
   - Architect and Developer, team ca. 5 ppl.
 - Tech
   - HTML5/CSS3 (SCSS)
   - Angular 12~ (Javascript, Typescript)
   - Rxjs
-  - Web LocalStorage, Web SessionStorage
+  - Web LocalStorage, Web SessionStorage, WebSocket
   - Angular Material
   - Unit Testing via Karma/Jasmine, Jest, mocking
+  - ECharts
+  - NGX Translate
 - Phase:
-  - PoC
-
+  - Various clients and libraries are live
 
 ### 01/2021 - 06/2021 **[KION GROUP AG](https://www.kiongroup.com)** (ALE project, SPA Client with HTML5/CSS3, Angular, Typescript)
 
