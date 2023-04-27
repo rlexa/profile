@@ -4,7 +4,7 @@
 
 **Current focus: Angular/Typescript Frontend/Fullstack.**
 
-- Currently Architect / Senior level:
+- Currently Architect / Senior / Lead level:
   - Angular Frontend (Fullstack)
 - Expert
   - Rapid Prototyping (rapid learning and prototype development)
@@ -75,6 +75,32 @@
 
 Chronologically descending.
 
+### 03/2023 - today **[KION GROUP AG](https://www.kiongroup.com)** (ECommerce project, SPA Clients with HTML5/CSS3, Angular, Typescript)
+
+- Tasks:
+  - SPA/PWA WebClients and corresponding libraries (Angular 13~ Typescript Rxjs, Angular Material)
+    - SPA clients for external users
+    - multi-locale translations
+    - authentication
+    - SSR for SEO capabilities
+  - Theming (CSS3)
+- Info
+  - UI clients and portals for ECommerce extranet use (forklift sale and rental)
+  - Workshops and trainings for Typescript, Angular, Functional Programming Concepts
+- Orga
+  - Architect and Developer, team ca. 5 ppl.
+- Tech
+  - HTML5/CSS3 (SCSS)
+  - Angular 13~ (Javascript, Typescript)
+  - Rxjs
+  - Web LocalStorage, Web SessionStorage
+  - Angular Material
+  - Unit Testing via Jest, mocking
+  - NGX Translate
+  - NX Workspace
+- Phase:
+  - Various clients and libraries are live
+
 ### 07/2021 - today **[RWE](https://www.group.rwe/)** (SPA Client with HTML5/CSS3, Angular Library, Angular, Typescript)
 
 - Tasks:
@@ -90,6 +116,9 @@ Chronologically descending.
     - misc. data curves (complex charts for lines and correlations thereof)
       - SPA client for external users
       - SPA client for internal admins
+    - contract generation (complex multi-step flow)
+      - SPA client for external users
+      - SPA client for internal users
   - Libraries (Typescript/Javascript, Angular components)
     - "Unity" Angular library for internal use in the whole RWE company
       - wrappers for material elements
