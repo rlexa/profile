@@ -1,8 +1,14 @@
 # Software Developer/Architect (Master of Computer Science)
 
+Alex Rempel (devdroy)
+
++4917663088053
+
+alexey.rempel@gmail.com
+
 ## Focus Experience
 
-**Current focus: Angular/Typescript Frontend/Fullstack.**
+**Current focus: Angular/Typescript Frontend/Fullstack**
 
 - Currently Architect / Senior / Lead level:
   - Angular Frontend (Fullstack)
@@ -15,7 +21,7 @@
   - Frontend: concept and implementation of user interfaces
     - Tech. stack: HTML5/CSS3, Javascript, SPA Frameworks like Angular
     - Complex examples: WYSIWYG UI editor, charts, graphics programming
-  - Backend: Java, C# (JPA, Hibernate, xSQL, Mongo, Amazon AWS SNS/SQS/S3), NPM (Javascript, Typescript, Express)
+  - Backend: Java, C# (JPA, Hibernate, xSQL, Mongo, Amazon AWS SNS/SQS/S3), NodeJS (Javascript, Typescript, Express)
     - experience with data synchronization between heterogenous systems
   - Services: Java, C# (RESTlet, ServiceStack, Services, data transfer)
 - Tech. Lead
@@ -75,32 +81,6 @@
 
 Chronologically descending.
 
-### 03/2023 - today **[KION GROUP AG](https://www.kiongroup.com)** (ECommerce project, SPA Clients with HTML5/CSS3, Angular, Typescript)
-
-- Tasks:
-  - SPA/PWA WebClients and corresponding libraries (Angular 13~ Typescript Rxjs, Angular Material)
-    - SPA clients for external users
-    - multi-locale translations
-    - authentication
-    - SSR for SEO capabilities
-  - Theming (CSS3)
-- Info
-  - UI clients and portals for ECommerce extranet use (forklift sale and rental)
-  - Workshops and trainings for Typescript, Angular, Functional Programming Concepts
-- Orga
-  - Architect and Developer, team ca. 5 ppl.
-- Tech
-  - HTML5/CSS3 (SCSS)
-  - Angular 13~ (Javascript, Typescript)
-  - Rxjs
-  - Web LocalStorage, Web SessionStorage
-  - Angular Material
-  - Unit Testing via Jest, mocking
-  - NGX Translate
-  - NX Workspace
-- Phase:
-  - Various clients and libraries are live
-
 ### 07/2021 - today **[RWE](https://www.group.rwe/)** (SPA Client with HTML5/CSS3, Angular Library, Angular, Typescript)
 
 - Tasks:
@@ -116,7 +96,7 @@ Chronologically descending.
     - misc. data curves (complex charts for lines and correlations thereof)
       - SPA client for external users
       - SPA client for internal admins
-    - contract generation (complex multi-step flow)
+    - contract generation (complex multi-step flow, dynamic code generation from Excel)
       - SPA client for external users
       - SPA client for internal users
   - Libraries (Typescript/Javascript, Angular components)
@@ -124,22 +104,53 @@ Chronologically descending.
       - wrappers for material elements
       - util modules for translation, locale loading, error handling etc.
       - shared pipes, directives, components etc.
+      - complex showcase
+      - Angular schematics
+      - functional programming utils
+      - Angular testing utils
   - Theming (CSS3)
 - Info
-  - UI clients and portals for intranet use (management of energy park assets)
+  - UI clients and portals for intranet and extranet use (management of energy park assets)
   - Ever growing library of widgets and code for intranet use in other teams
   - Workshops and trainings for Typescript, Angular, Functional Programming Concepts
 - Orga
-  - Architect and Developer, team ca. 5 ppl.
+  - Frontend Architect and Developer, team ca. 10 ppl.
 - Tech
   - HTML5/CSS3 (SCSS)
-  - Angular 12~ (Javascript, Typescript)
+  - Angular 12~17 (Javascript, Typescript)
   - Rxjs
   - Web LocalStorage, Web SessionStorage, WebSocket
   - Angular Material
-  - Unit Testing via Karma/Jasmine, Jest, mocking
+  - Unit Testing via Jest, mocking
   - ECharts
   - NGX Translate
+- Phase:
+  - Various clients and libraries are live
+
+### 03/2023 - 12/2023 **[KION GROUP AG](https://www.kiongroup.com)** (ECommerce project, SPA Clients with HTML5/CSS3, Angular, Typescript)
+
+- Tasks:
+  - SPA/PWA WebClients and corresponding libraries (Angular 13~16 Typescript Rxjs, Angular Material)
+    - SPA clients for external users
+    - multi-brand
+    - multi-locale translations
+    - authentication
+    - SSR for SEO capabilities
+  - Theming (CSS3)
+- Info
+  - UI clients and portals for ECommerce extranet use (forklift sale and rental)
+  - Workshops and trainings for Typescript, Angular, Functional Programming Concepts
+- Orga
+  - Architect and Developer, team ca. 10 ppl.
+- Tech
+  - HTML5/CSS3 (SCSS)
+  - Angular 13~16 (Javascript, Typescript)
+  - Rxjs
+  - Web LocalStorage, Web SessionStorage
+  - NG Bootstrap
+  - Unit Testing via Jest, mocking
+  - NGX Translate
+  - NX Workspace
 - Phase:
   - Various clients and libraries are live
 
