@@ -81,7 +81,31 @@ alexey.rempel@gmail.com
 
 Chronologically descending.
 
-### 07/2021 - today **[RWE](https://www.group.rwe/)** (SPA Client with HTML5/CSS3, Angular Library, Angular, Typescript)
+### 07/2024 - 12/2024 **[RWE Trading](https://www.group.rwe/)** (SPA Client with HTML5/CSS3, Angular, Typescript, ECharts)
+
+- Tasks:
+  - SPA WebClient (Angular 18~ Typescript Rxjs, Angular Material)
+  - Workshops and trainings for Typescript, Angular, RXJS, Functional Programming Concepts
+- Info
+  - target audience: trader on trading floor
+  - energy trading data, spreads administration (tables, charts, grids, dashboard, forms, charts)
+- Orga
+  - Frontend Architect, Senior, Lead, team ca. 6 ppl.
+  - Fullstack C# frontend part (API planning and implementation)
+- Tech
+  - HTML5/CSS3 (SCSS)
+  - Angular 18~ (Javascript, Typescript)
+  - Rxjs
+  - LocalStorage, SessionStorage, WebSocket
+  - Angular Material, RWE Unity library
+  - Authentication via MSAL
+  - Unit Testing and mocking via Jest, ng-mocks, ts-mockery
+  - ECharts
+  - NGX Translate
+- Phase:
+  - product is live
+
+### 07/2021 - 12/2024 **[RWE Supply](https://www.group.rwe/)** (SPA Client with HTML5/CSS3, Angular Library, Angular, Typescript)
 
 - Tasks:
   - SPA WebClients (Angular 12~ Typescript Rxjs, Angular Material)
