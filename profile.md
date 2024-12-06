@@ -6,6 +6,10 @@ Alex Rempel (devdroy)
 
 alexey.rempel@gmail.com
 
+## Profile
+
+Angular frontend expert architect/senior/lead with over 15 years of software development experience and 7 years of frontend architect experience. Worked on gigantic ECommerce solutions, customized single page applications, projects with multi-apps, corporations wide Angular libraries. Besides implementing the solutions also worked with the end customers as UX requirement engineer, created and maintained task backlog together with product owners, routinely trained and reviewed code of junior and mid-level team members, planned and where needed implemented the API on tha backend side, helped with deployment processes and covered the resulting solutions by providing unit and end-to-end testing.
+
 ## Focus Experience
 
 **Current focus: Angular/Typescript Frontend/Fullstack**
@@ -83,7 +87,11 @@ Chronologically descending.
 
 ### 07/2024 - 12/2024 **[RWE Trading](https://www.group.rwe/)** (SPA Client with HTML5/CSS3, Angular, Typescript, ECharts)
 
-- Tasks:
+Designed, planned and implemented a UX solution for RWE traders working on the trading floor. Analysing and implementing a good UX experience was challenging in this case as the traders are used to excel and a lot of numbers which nevertheless was required to be shown in a modern simple UI following RWE styling guidelines.
+The solution incorporates user authentication and authorization. Grid overview of multiple currently selected "curves" i.e. trading vectors (number clouds) with live updates, different delivery periods (e.g. days, seasons etc.), custom charts and custom actions. Furthermore every "curve" has an additional special builder views (curve configuration) providing near-excel capabilities of customizing the data in the client and also actions for downloading and updating actual excel files. Every "curve" has also an additional "runs" view where the periodic calculation processes on the backend are queried and shown in the client in detail. A special top scope page was added for the overview of the current day showing custom charts and clocks which take different timezones into account as trading is done in US, EU and Japan. Another top scope page provides insights into the catalog of all available curves and details thereof including dependency charts and current error states.
+On the technical side the frontend is an SPA implemented in Angular and using a propritary RWE library among other dependencies. The backend-for-frontend C# API was also to be implemented including authentication, Swagger contract and REST standards.
+
+- Tasks
   - SPA WebClient (Angular 18~ Typescript Rxjs, Angular Material)
   - Workshops and trainings for Typescript, Angular, RXJS, Functional Programming Concepts
 - Info
