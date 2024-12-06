@@ -22,7 +22,7 @@ Proficient in full-cycle development, I excel in:
 
 A strategic problem-solver, I thrive in dynamic environments, bridging technical execution with business objectives to deliver impactful digital experiences.
 
-__Team Collaboration and Agile Excellence__
+**Team Collaboration and Agile Excellence**
 
 Successfully collaborated within a multidisciplinary team, demonstrating strong communication skills, proactive problem-solving, and a focus on shared objectives. Played an active role in agile ceremonies, including sprint planning, daily stand-ups, retrospectives, and backlog refinement. Contributed to fostering a positive team environment, encouraging knowledge sharing, and mentoring colleagues to enhance team performance. Ensured timely delivery of features through iterative development and alignment with stakeholder priorities.
 
@@ -81,8 +81,8 @@ Designed, planned, and implemented a sophisticated UX solution for RWE traders o
 
 **Technical Implementation:**
 
-- __Frontend:__ Built as a single-page application (SPA) using Angular and a proprietary RWE library alongside other dependencies
-- __Backend-for-Frontend (BFF):__ Developed a robust C# API adhering to RESTful standards, complete with authentication, Swagger documentation, and seamless integration with the frontend
+- **Frontend:** Built as a single-page application (SPA) using Angular and a proprietary RWE library alongside other dependencies
+- **Backend-for-Frontend (BFF):** Developed a robust C# API adhering to RESTful standards, complete with authentication, Swagger documentation, and seamless integration with the frontend
 
 This project demonstrates expertise in bridging complex data-heavy requirements with intuitive, high-performance UX, ensuring a transformative experience for end users in a fast-paced trading environment.
 
@@ -110,22 +110,99 @@ This project demonstrates expertise in bridging complex data-heavy requirements 
 
 ### 07/2021 - 12/2024 **[RWE Supply](https://www.group.rwe/)** (SPA Client with HTML5/CSS3, Angular Library, Angular, Typescript)
 
+1. **Unity | Technical Lead for RWE Library**
+
+   Helped to design and led the implementation of the RWE corporation-wide "Unity" library, a comprehensive Angular utility library supporting teams across all RWE divisions in creating efficient, consistent, and scalable applications.
+
+   **Key Features and Components:**
+
+   - **Extensive Utilities:** Includes helper functions for dates, arrays, functional programming, reactive programming
+   - **Reusable UI Components:** Comprehensive set of components for layout, forms, navigation
+   - **Directives and Services:** Includes data watchers, title handlers, notifications, confirmation dialogs, and more
+   - **Pipes and Transformation Tools:** Provides robust tools for data manipulation and formatting
+   - **Advanced Features:**
+     - Angular schematics for scaffolding and automating Angular-specific workflows
+     - Special scripts for analyzing Angular projects and enhancing development efficiency
+     - CSS theming and support for localization and translation
+
+   **Professional-Grade Implementation:**
+   The library is designed with a modern, modular approach, incorporating second entry-point libraries similar to Angular Material. Features include:
+
+   - **Showcase Application:** A dedicated app demonstrating and documenting all library capabilities for users
+   - **Versioning and Documentation:** Maintained changelog and contribution guidelines to ensure transparency and collaboration
+   - **Corporate Distribution:** Published to corporate NPM registries, enabling seamless integration across projects
+
+   As the technical lead, I drove the architectural decisions, ensured adherence to best practices, and fostered collaboration across teams, delivering a solution that has become an integral part of RWE's Angular ecosystem.
+
+---
+
+2. **DCentral | Frontend Lead for Energy Asset Regulation**
+
+   Developed a specialized application for regulating energy-generating assets, designed as a dashboard solution to provide real-time insights and streamlined workflows for on-site operations.
+
+   **Key Features and Capabilities:**
+
+   - **Customizable Dashboard:** Displays a tailored view of registered assets, including current states, outages, upcoming deadlines, and dynamic line charts
+   - **Outage Management:**
+     - Dedicated interface for tracking and managing outages
+     - Complex, user-friendly forms for creating and editing outage details
+   - **Energy Nomination Tracking:**
+     - Tools for managing energy generation and consumption forecasts
+     - Custom forms and interactive charts for creating and visualizing nominations
+   - **User Authentication and Authorization:** Ensures secure access and role-based functionality
+   - **A/B Design Testing:** Provides dual design options for the dashboard view to optimize user experience
+
+   **Collaboration and Customer Engagement:**
+
+   Delivered the application through frequent, direct communication with the end customer to address specialized requirements and ensure the solution met operational needs effectively. This hands-on approach facilitated precise alignment with user expectations and business objectives.
+
+   This project highlights expertise in developing data-rich, user-centric applications with a strong emphasis on security, usability, and stakeholder collaboration.
+
+---
+
+3. **ForecastVIEW | Frontend Lead for Energy Consumption Forecasting Application**
+
+   Developed a tailored application for forecasting energy consumption, addressing complex, asset-specific rules based on commodity types such as gas and electricity.
+
+   **Key Features and Capabilities:**
+
+   - **Excel-Like Functionality:** Provides advanced table capabilities for numerical data entry and manipulation, ensuring precision and flexibility
+   - **Rule-Based Customization:** Handles a variety of rule combinations specific to each commodity type, adapting seamlessly to diverse forecasting requirements
+   - **Timezone Granularity:** Accurately manages timezone complexities, including correct handling of daylight saving transitions (e.g., summer and winter time in Germany)
+   - **Meta Data Management:** Offers detailed views and insights into commodity-specific asset metadata
+   - **Specialized Actions:** Includes configuration options for automated email notifications and other asset-specific settings
+   - **User Authentication and Authorization:** Ensures secure access and role-based functionality
+
+   This application showcases the ability to combine advanced data-handling techniques with domain-specific requirements, delivering a robust tool for energy forecasting with high usability and adaptability.
+
+---
+
+4. **PortfolioVIEW | Frontend Lead for User Portfolio Management Application**
+
+   Designed and developed an application for managing user portfolios, enabling the regulation of access to assets such as generators, areas, and energy delivery points.
+
+   **Key Features and Capabilities:**
+
+   - **Comprehensive Access Management:** Provides advanced tools for assigning and regulating user access based on assets, areas, and delivery points
+   - **Complex Forms and Rules:** Features sophisticated forms and assignment logic to handle intricate access dependencies and configurations
+   - **Streamlined UX Design:** Delivered a user-friendly interface that simplifies the presentation of exceptionally complex business dependencies
+   - **Business Data Model Engineering:** Collaborated closely with the end customer to analyze and translate business requirements into precise technical data structures, ensuring alignment with operational needs
+   - **API Development:** Designed and implemented a comprehensive API to support seamless data interaction and enable robust backend integration
+
+   This project demonstrates the ability to balance technical complexity with usability, providing a solution that bridges sophisticated business logic with intuitive user interfaces.
+
+---
+
+5. **DataVIEW**
+
+6. **Contract Wizard**
+
+7. **ViewAdmin**
+
+---
+
 - Tasks:
-  - SPA WebClients (Angular 12~ Typescript Rxjs, Angular Material)
-    - energy volume nominations, asset outages (tables, charts, dashboard, forms)
-      - SPA client for external users
-      - SPA client for internal admins
-    - asset and asset group management (tables, lists, complex forms)
-      - SPA client for internal admins
-    - energy forecast management (complex custom table with inline functionality, protfolios)
-      - SPA client for external users
-      - SPA client for internal admins
-    - misc. data curves (complex charts for lines and correlations thereof)
-      - SPA client for external users
-      - SPA client for internal admins
-    - contract generation (complex multi-step flow, dynamic code generation from Excel)
-      - SPA client for external users
-      - SPA client for internal users
+  - multiple SPA WebClients (Angular 12~ Typescript Rxjs, Angular Material)
   - Libraries (Typescript/Javascript, Angular components)
     - "Unity" Angular library for internal use in the whole RWE company
       - wrappers for material elements
