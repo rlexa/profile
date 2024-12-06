@@ -110,6 +110,10 @@ This project demonstrates expertise in bridging complex data-heavy requirements 
 
 ### 07/2021 - 12/2024 **[RWE Supply](https://www.group.rwe/)** (SPA Client with HTML5/CSS3, Angular Library, Angular, Typescript)
 
+In addition to the projects described below provided extensive support across a variety of other initiatives related to Angular development. This included mentoring junior developers in frontend technologies, UX design, requirement engineering, TypeScript, RxJS, and unit testing. I also conducted formal workshops for larger audiences within the corporation, sharing knowledge and best practices to foster team growth and enhance overall technical expertise.
+
+---
+
 1. **Unity | Technical Lead for RWE Library**
 
    Helped to design and led the implementation of the RWE corporation-wide "Unity" library, a comprehensive Angular utility library supporting teams across all RWE divisions in creating efficient, consistent, and scalable applications.
@@ -254,19 +258,19 @@ This project demonstrates expertise in bridging complex data-heavy requirements 
 
 8. **ViewAdmin | Frontend Lead for Application for Administration of Other Applications**
 
-      Developed an application designed to manage and administer various other applications, including portfolio registrations, user access, and asset maintenance.
-      
-      __Key Features and Capabilities:__
-      
-      - __Comprehensive Data Management:__ Utilizes lists, tables, and detailed forms to handle diverse data inputs across multiple administrative functions
-      - __Multi-Scope Administration:__ Integrates various administrative domains (e.g., portfolio registrations, user access, asset management) under a unified user experience
-      - __Complex Architecture:__ Addressed the challenge of hosting multiple administration scopes within a single UX, requiring intricate architecture across backend, frontend, and API layers
+   Developed an application designed to manage and administer various other applications, including portfolio registrations, user access, and asset maintenance.
 
-      __Technical Challenges:__
-      
-      Managed the complexities of maintaining seamless functionality and performance while integrating different administration systems, ensuring consistency and usability across all modules.
+   **Key Features and Capabilities:**
 
-      This project highlights expertise in building scalable, modular systems with complex requirements, ensuring smooth cross-functional integration and user-friendly design.
+   - **Comprehensive Data Management:** Utilizes lists, tables, and detailed forms to handle diverse data inputs across multiple administrative functions
+   - **Multi-Scope Administration:** Integrates various administrative domains (e.g., portfolio registrations, user access, asset management) under a unified user experience
+   - **Complex Architecture:** Addressed the challenge of hosting multiple administration scopes within a single UX, requiring intricate architecture across backend, frontend, and API layers
+
+   **Technical Challenges:**
+
+   Managed the complexities of maintaining seamless functionality and performance while integrating different administration systems, ensuring consistency and usability across all modules.
+
+   This project highlights expertise in building scalable, modular systems with complex requirements, ensuring smooth cross-functional integration and user-friendly design.
 
 ---
 
