@@ -51,51 +51,13 @@ Successfully collaborated within a multidisciplinary team, demonstrating strong 
   - Basics of Android application development
   - Basics of UI and layout mechanism development
 
-## Skills, Graduations, Work Experience
+## Graduations, Work Experience
 
 - Languages (fluent): German, English, Russian
 - Science Degree: Master of Computer Science
 - Trainer experience: lectureship at HDA Darmstadt
 - Misc. work experience (chronologically descending):
   - (see projects further below)
-
-## Acquired Skills
-
-### Development Environments
-
-| Target OS              | Environment, Engine, Tech                                                                                                                                   |
-| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| PC (Microsoft Windows) | VS Code, Microsoft Visual Studio, Eclipse, InelliJ, C# (.NET), Java (Maven, Spring, Hibernate JPA, UnitTests, Restlets u.v.m.), C++ Ogre3D, DirectShow, MFC |
-| Cross-Plattform        | Phonegap and Phonegap Plugins (for Android), Java, Javascript, Typescript, NPM (libraries, servers e.g. with Express)                                       |
-| Webfrontend (Browser)  | Angular 2~, AngularJS, qooxdoo GUI development and layout imlementation, Typescript, Javascript, HTML5/CSS3 incl. animations and WebGL                      |
-| Android                | Eclipse (ADT Plugin), Java, OpenGL ES 2.0                                                                                                                   |
-| Nintendo DS            | NITRO SDK, C++/C                                                                                                                                            |
-| PC (Unix)              | Eclipse, GDB, Makefiles, C++                                                                                                                                |
-| Docker                 | Kubernetes, HELM                                                                                                                                            |
-
-### Programming Skills
-
-| Language, Tech                                              | Development Experience                                                                                |
-| ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| C#                                                          | Driver, Interfaces, .NET, Backend, Reflection, Services                                               |
-| Java, XML, BATch, PostgreSQL, MySQL, MongoDB                | Server modules, network interfaces, Android apps, Amazon AWS framework (SNS/SQS/S3...), RESTlets etc. |
-| Javascript, Typescript, JSON, HTML/CSS, Angular, Rxjs, D3js | WebApps, GUIs, NodeJS microservices and servers                                                       |
-| C++                                                         | GUIs, business logic, graphics etc.                                                                   |
-| HLSL Shader, Lua, Python, VBA                               | Scripts, visual effects                                                                               |
-| C                                                           | Proprietary environments                                                                              |
-| Smalltalk, PHP, Unix AWK, Unix Shellscript                  | Misc.                                                                                                 |
-
-### Tools (Microsoft Office goes without saying)
-
-| Area           | Tool, Framework, Engine                                |
-| -------------- | ------------------------------------------------------ |
-| Cryptography   | SecuRom                                                |
-| DevOps         | Jenkins, Teamcity, Docker                              |
-| Documentation  | Confluence                                             |
-| Planning       | EnterpriseArchitect, plantUML                          |
-| Support        | Jira, Mantis, PHProject, BugTracker                    |
-| User Interface | MenuMaster, MFC, Gameface, libRocket, qooxdoo, Angular |
-| Versioning     | Perforce, CVS, Subversion, Git                         |
 
 ## Projects
 
@@ -804,3 +766,41 @@ This project demonstrates expertise in bridging complex data-heavy requirements 
   - Orga: Developer for ca. 4 months, ca. 20ppl
   - Tech: Game logic, Windows registry, PC CD-Starter
   - Phase: production
+
+## Acquired Skills
+
+### Development Environments
+
+| Target OS              | Environment, Engine, Tech                                                                                                                                   |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PC (Microsoft Windows) | VS Code, Microsoft Visual Studio, Eclipse, InelliJ, C# (.NET), Java (Maven, Spring, Hibernate JPA, UnitTests, Restlets u.v.m.), C++ Ogre3D, DirectShow, MFC |
+| Cross-Plattform        | Phonegap and Phonegap Plugins (for Android), Java, Javascript, Typescript, NPM (libraries, servers e.g. with Express)                                       |
+| Webfrontend (Browser)  | Angular 2~, AngularJS, qooxdoo GUI development and layout imlementation, Typescript, Javascript, HTML5/CSS3 incl. animations and WebGL                      |
+| Android                | Eclipse (ADT Plugin), Java, OpenGL ES 2.0                                                                                                                   |
+| Nintendo DS            | NITRO SDK, C++/C                                                                                                                                            |
+| PC (Unix)              | Eclipse, GDB, Makefiles, C++                                                                                                                                |
+| Docker                 | Kubernetes, HELM                                                                                                                                            |
+
+### Programming Skills
+
+| Language, Tech                                              | Development Experience                                                                                |
+| ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| C#                                                          | Driver, Interfaces, .NET, Backend, Reflection, Services                                               |
+| Java, XML, BATch, PostgreSQL, MySQL, MongoDB                | Server modules, network interfaces, Android apps, Amazon AWS framework (SNS/SQS/S3...), RESTlets etc. |
+| Javascript, Typescript, JSON, HTML/CSS, Angular, Rxjs, D3js | WebApps, GUIs, NodeJS microservices and servers                                                       |
+| C++                                                         | GUIs, business logic, graphics etc.                                                                   |
+| HLSL Shader, Lua, Python, VBA                               | Scripts, visual effects                                                                               |
+| C                                                           | Proprietary environments                                                                              |
+| Smalltalk, PHP, Unix AWK, Unix Shellscript                  | Misc.                                                                                                 |
+
+### Tools (Microsoft Office goes without saying)
+
+| Area           | Tool, Framework, Engine                                |
+| -------------- | ------------------------------------------------------ |
+| Cryptography   | SecuRom                                                |
+| DevOps         | Jenkins, Teamcity, Docker                              |
+| Documentation  | Confluence                                             |
+| Planning       | EnterpriseArchitect, plantUML                          |
+| Support        | Jira, Mantis, PHProject, BugTracker                    |
+| User Interface | MenuMaster, MFC, Gameface, libRocket, qooxdoo, Angular |
+| Versioning     | Perforce, CVS, Subversion, Git                         |
