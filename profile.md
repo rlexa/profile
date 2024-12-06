@@ -22,6 +22,10 @@ Proficient in full-cycle development, I excel in:
 
 A strategic problem-solver, I thrive in dynamic environments, bridging technical execution with business objectives to deliver impactful digital experiences.
 
+__Team Collaboration and Agile Excellence__
+
+Successfully collaborated within a multidisciplinary team, demonstrating strong communication skills, proactive problem-solving, and a focus on shared objectives. Played an active role in agile ceremonies, including sprint planning, daily stand-ups, retrospectives, and backlog refinement. Contributed to fostering a positive team environment, encouraging knowledge sharing, and mentoring colleagues to enhance team performance. Ensured timely delivery of features through iterative development and alignment with stakeholder priorities.
+
 ## Focus Experience
 
 **Current focus: Angular/Typescript Frontend/Fullstack**
