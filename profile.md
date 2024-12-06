@@ -265,6 +265,7 @@ In addition to the projects described below provided extensive support across a 
    - **Comprehensive Data Management:** Utilizes lists, tables, and detailed forms to handle diverse data inputs across multiple administrative functions
    - **Multi-Scope Administration:** Integrates various administrative domains (e.g., portfolio registrations, user access, asset management) under a unified user experience
    - **Complex Architecture:** Addressed the challenge of hosting multiple administration scopes within a single UX, requiring intricate architecture across backend, frontend, and API layers
+   - **User Authentication and Authorization:** Ensures secure access and role-based functionality
 
    **Technical Challenges:**
 
@@ -305,6 +306,22 @@ In addition to the projects described below provided extensive support across a 
   - Various clients and libraries are live
 
 ### 03/2023 - 12/2023 **[KION GROUP AG](https://www.kiongroup.com)** (ECommerce project, SPA Clients with HTML5/CSS3, Angular, Typescript)
+
+  __Legacy eCommerce Application Modernization__
+  
+  Hired specifically for my expertise in legacy system optimization, I led the efforts to address various issues within a large, complex eCommerce application for KION, a webshop for buying or renting forklifts and parts.
+  
+  __Key Challenges and Solutions:__
+  
+  - __Complex Monorepo Architecture:__ Worked with a vast monorepo containing multiple libraries and clients, requiring careful management and refactoring to optimize performance and reduce complexity
+  - __Multi-Franchise, Dynamic UI:__ The application's multi-franchise nature required dynamic content rendering, with UI layouts and data components loading from the backend based on customer domain and configuration
+  - __SEO Compliance with Angular SSR:__ Integrated Angular Server-Side Rendering (SSR) to ensure the SPA adhered to SEO best practices, enabling search engine discoverability
+  - __Modernizing the Codebase:__ Led the effort to modernize the architecture, upgrading through four major Angular versions, while mentoring the team on RxJS, dependency injection, and best practices
+  - __Performance Optimization and Bug Reduction:__ Refined the monorepo structure, introducing professional second-entry-level sublibraries, reducing client size, and significantly minimizing bugs and technical debt
+  
+  This project showcases a strong ability to manage complex legacy systems, streamline architectures, and lead teams in optimizing both technical and operational aspects of large-scale applications.
+
+  ---
 
 - Tasks:
   - SPA/PWA WebClients and corresponding libraries (Angular 13~16 Typescript Rxjs, Angular Material)
