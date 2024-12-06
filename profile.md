@@ -8,7 +8,19 @@ alexey.rempel@gmail.com
 
 ## Profile
 
-Angular frontend expert architect/senior/lead with over 15 years of software development experience and 7 years of frontend architect experience. Worked on gigantic ECommerce solutions, customized single page applications, projects with multi-apps, corporations wide Angular libraries. Besides implementing the solutions also worked with the end customers as UX requirement engineer, created and maintained task backlog together with product owners, routinely trained and reviewed code of junior and mid-level team members, planned and where needed implemented the API on tha backend side, helped with deployment processes and covered the resulting solutions by providing unit and end-to-end testing.
+__Angular Frontend Expert | Architect | Senior Developer | Technical Lead__
+
+With over 15 years of software development experience, including 7 years specializing in frontend architecture, I bring a proven track record of delivering scalable, high-performance Angular solutions. Expertise spans designing and implementing complex eCommerce platforms, custom single-page applications (SPAs), multi-application ecosystems, and enterprise-wide Angular libraries.
+
+Proficient in full-cycle development, I excel in:
+
+- Collaborating with end users and stakeholders to gather UX requirements
+- Defining and maintaining task backlogs alongside product owners
+- Mentoring and conducting code reviews for junior and mid-level developers
+- Planning and implementing backend APIs where necessary
+- Streamlining deployment pipelines and ensuring robust unit and end-to-end test coverage
+
+A strategic problem-solver, I thrive in dynamic environments, bridging technical execution with business objectives to deliver impactful digital experiences.
 
 ## Focus Experience
 
