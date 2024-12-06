@@ -188,16 +188,85 @@ This project demonstrates expertise in bridging complex data-heavy requirements 
    - **Streamlined UX Design:** Delivered a user-friendly interface that simplifies the presentation of exceptionally complex business dependencies
    - **Business Data Model Engineering:** Collaborated closely with the end customer to analyze and translate business requirements into precise technical data structures, ensuring alignment with operational needs
    - **API Development:** Designed and implemented a comprehensive API to support seamless data interaction and enable robust backend integration
+   - **User Authentication and Authorization:** Ensures secure access and role-based functionality
 
    This project demonstrates the ability to balance technical complexity with usability, providing a solution that bridges sophisticated business logic with intuitive user interfaces.
 
 ---
 
-5. **DataVIEW**
+5. **DataVIEW | Frontend Lead for Data Visualization Application**
 
-6. **Contract Wizard**
+   Developed an application designed for the external viewing of "curve" data, representing energy or trading number vectors.
 
-7. **ViewAdmin**
+   **Key Features and Capabilities:**
+
+   - **Custom Data Presentation:** Delivered a dedicated, customized read-only interface optimized for visualizing complex "curve" data
+   - **Tailored UX Design:** Focused on clarity and usability, ensuring external stakeholders could efficiently access and interpret the data
+   - **User Authentication and Authorization:** Ensures secure access and role-based functionality
+
+   This project highlights expertise in creating specialized data visualization tools tailored to stakeholder requirements while maintaining a focus on precision and simplicity.
+
+---
+
+6. **Contract Wizard | Frontend Lead for Dynamic Business Contract Generation Application**
+
+   Developed a highly sophisticated application for generating business contracts, where each step dynamically adapts based on previous inputs, culminating in a draft contract tailored to specific requirements.
+
+   **Key Features and Capabilities:**
+
+   - **Administrative Module:**
+     - Tools for configuring application users and managing contract counterparties (e.g., companies)
+     - Complex forms for creating and managing counterparties and their associated metering points (e.g., wind parks)
+   - **Contract Generation Module:**
+     - Starts with selecting a commodity (e.g., gas) and a counterparty, then progresses through dynamic, backend-driven steps
+     - Supports over 220 forms with context-sensitive fields, validations, and translations
+   - **User Authentication and Authorization:** Ensures secure access and role-based functionality
+
+   **Innovative Automation:**
+
+   Developed a frontend-side script that automatically generates Angular components for forms, complete with form elements, validations, and translations, directly from Excel files provided by the business. This streamlined process significantly reduced manual development effort and ensured consistency across the application.
+
+   **Collaboration and UX Design:**
+
+   Maintained close, direct, and frequent communication with the end customer to ensure a deep understanding of complex requirements. Designed a user experience that addresses unique business scenarios, balancing functionality with usability.
+
+   This project showcases expertise in developing highly dynamic, rule-based applications while incorporating automation, close stakeholder collaboration, and scalable frontend architecture.
+
+---
+
+7. **BIC | Frontend Lead for Energy Asset Administration Application**
+
+   Developed an application for managing energy assets, including wind parks, gas-powered generators, and other infrastructure.
+
+   **Key Features and Capabilities:**
+
+   - **Asset Management:** Provides detailed lists of assets with in-depth views for managing asset details
+   - **Multi-Scope Form Handling:** Supports multiple form scopes with complex fields and robust validations
+   - **Integrated Validation Flow:** Combines frontend form validators with backend-provided validation states, seamlessly incorporating these into a user-friendly experience
+
+   **User Experience Design:**
+
+   Addressed the challenge of integrating dynamic validation flows where frontend validations needed to be combined with backend validations into a simple and intuitive UX, ensuring users could efficiently manage assets while maintaining data accuracy and consistency.
+
+   This project highlights the ability to deliver scalable administrative tools that bridge technical complexity with accessible, user-centric design.
+
+---
+
+8. **ViewAdmin | Frontend Lead for Application for Administration of Other Applications**
+
+      Developed an application designed to manage and administer various other applications, including portfolio registrations, user access, and asset maintenance.
+      
+      __Key Features and Capabilities:__
+      
+      - __Comprehensive Data Management:__ Utilizes lists, tables, and detailed forms to handle diverse data inputs across multiple administrative functions
+      - __Multi-Scope Administration:__ Integrates various administrative domains (e.g., portfolio registrations, user access, asset management) under a unified user experience
+      - __Complex Architecture:__ Addressed the challenge of hosting multiple administration scopes within a single UX, requiring intricate architecture across backend, frontend, and API layers
+
+      __Technical Challenges:__
+      
+      Managed the complexities of maintaining seamless functionality and performance while integrating different administration systems, ensuring consistency and usability across all modules.
+
+      This project highlights expertise in building scalable, modular systems with complex requirements, ensuring smooth cross-functional integration and user-friendly design.
 
 ---
 
