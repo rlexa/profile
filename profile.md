@@ -8,7 +8,7 @@ alexey.rempel@gmail.com
 
 ## Profile
 
-__Angular Frontend Expert | Architect | Senior Developer | Technical Lead__
+**Angular Frontend Expert | Architect | Senior Developer | Technical Lead**
 
 With over 15 years of software development experience, including 7 years specializing in frontend architecture, I bring a proven track record of delivering scalable, high-performance Angular solutions. Expertise spans designing and implementing complex eCommerce platforms, custom single-page applications (SPAs), multi-application ecosystems, and enterprise-wide Angular libraries.
 
@@ -99,9 +99,26 @@ Chronologically descending.
 
 ### 07/2024 - 12/2024 **[RWE Trading](https://www.group.rwe/)** (SPA Client with HTML5/CSS3, Angular, Typescript, ECharts)
 
-Designed, planned and implemented a UX solution for RWE traders working on the trading floor. Analysing and implementing a good UX experience was challenging in this case as the traders are used to excel and a lot of numbers which nevertheless was required to be shown in a modern simple UI following RWE styling guidelines.
-The solution incorporates user authentication and authorization. Grid overview of multiple currently selected "curves" i.e. trading vectors (number clouds) with live updates, different delivery periods (e.g. days, seasons etc.), custom charts and custom actions. Furthermore every "curve" has an additional special builder views (curve configuration) providing near-excel capabilities of customizing the data in the client and also actions for downloading and updating actual excel files. Every "curve" has also an additional "runs" view where the periodic calculation processes on the backend are queried and shown in the client in detail. A special top scope page was added for the overview of the current day showing custom charts and clocks which take different timezones into account as trading is done in US, EU and Japan. Another top scope page provides insights into the catalog of all available curves and details thereof including dependency charts and current error states.
-On the technical side the frontend is an SPA implemented in Angular and using a propritary RWE library among other dependencies. The backend-for-frontend C# API was also to be implemented including authentication, Swagger contract and REST standards.
+**RWE Trading Floor UX Solution**
+
+Designed, planned, and implemented a sophisticated UX solution for RWE traders operating on the trading floor, addressing the challenge of translating Excel-based workflows into a modern, streamlined UI while adhering to RWE’s styling guidelines.
+
+**Key Features and Capabilities:**
+
+- **User Authentication and Authorization:** Secure access controls integrated into the solution
+- **Dynamic Data Presentation:** Grid overview displaying multiple "curves" (trading vectors) with real-time updates, covering delivery periods such as days and seasons
+- **Custom Visualizations and Actions:** Tailored charts, advanced curve configuration tools (near-Excel capabilities), and options to download and update Excel files
+- **Runs View:** Detailed insights into backend periodic calculations displayed for each "curve"
+- **Global Overview Pages:**
+  - **Daily Summary:** Displays custom charts, synchronized clocks for multiple time zones (US, EU, Japan), and trading insights e.g. holidays
+  - **Curve Catalog:** Comprehensive overview of all available curves, including dependency charts and real-time error states
+
+**Technical Implementation:**
+
+- __Frontend:__ Built as a single-page application (SPA) using Angular and a proprietary RWE library alongside other dependencies
+- __Backend-for-Frontend (BFF):__ Developed a robust C# API adhering to RESTful standards, complete with authentication, Swagger documentation, and seamless integration with the frontend
+
+This project demonstrates expertise in bridging complex data-heavy requirements with intuitive, high-performance UX, ensuring a transformative experience for end users in a fast-paced trading environment.
 
 - Tasks
   - SPA WebClient (Angular 18~ Typescript Rxjs, Angular Material)
