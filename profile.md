@@ -63,6 +63,48 @@ Successfully collaborated within a multidisciplinary team, demonstrating strong 
 
 Chronologically descending.
 
+### 05/2025 - 12/2025 **[Vonovia](https://www.vonovia.de/)** (SPA Client with HTML5/CSS3, Angular, Typescript, NodeJS Backend-for-Frontend)
+
+**Elevator Asset Management UX Solution**
+
+As a supporting Angular frontend expert engineer refactored, modernized and implemented features for a sophisticated, multi-faceted, multi-brand UX solution for elevator based assets with high data complexity and density, including working on a NodeJS backend-for-frontend module as an interface to other backend microservices.
+
+**Key Features and Capabilities:**
+
+- **Angular Upgrade Preparation:** Worked on preparing to move to more modern Angular versions from the legacy version
+- **Backend driven layout forms:** Multiple different UX cases for data and layout dynamically requested from backend
+- **Custom Visualization:** Dynamic backend-driven editable data tables, panorama picture viewer, assets on google maps
+- **Maintenance:** Added unit testing with Jest, refactored routing and added more modern patterns to state management, added code generation using openapi contract files
+- **Training:** Workshops for change detection, provider and state management in Angular, unit testing
+
+**Technical Implementation:**
+
+- **Frontend:** Single-page multi-brand application (SPA) Angular 15 (at the time of entry) and other dependencies
+- **Backend-for-Frontend (BFF):** NodeJS interface for communication with other microservices
+
+This project demonstrates expertise by quickly onboarding into a large and complex frontend project, gaining a deep understanding of the business domain while efficiently analyzing and working with files routinely exceeding 2k lines of code, ensuring rapid productivity and high-quality contributions.
+
+- Tasks
+  - SPA WebClient (Angular 15~ Typescript Rxjs, Angular Material)
+  - NodeJS Backend-for-Frontend (Typescript)
+  - Workshops and trainings for Typescript, Angular, RXJS, Functional Programming, Unit Testing Concepts
+- Info
+  - target audience: elevator asset manager, elevator maintenance worker
+  - asset data, management of involved companies and staff
+- Orga
+  - Frontend Expert, frontend team 3 ppl.
+  - NodeJS fullstack frontend part (API and backend-to-backend)
+- Tech
+  - HTML5/CSS3 (SCSS)
+  - Angular 15~ (Javascript, Typescript)
+  - Rxjs
+  - LocalStorage, SessionStorage, WebSocket
+  - Angular Material
+  - Unit Testing and mocking via Jest, ng-mocks, ts-mockery
+  - incl. working with authentication, translations and a lot of 3rd party libraries
+- Phase:
+  - product is live
+
 ### 07/2024 - 12/2024 **[RWE Trading](https://www.group.rwe/)** (SPA Client with HTML5/CSS3, Angular, Typescript, ECharts)
 
 **RWE Trading Floor UX Solution**
@@ -307,21 +349,21 @@ In addition to the projects described below provided extensive support across a 
 
 ### 03/2023 - 12/2023 **[KION GROUP AG](https://www.kiongroup.com)** (ECommerce project, SPA Clients with HTML5/CSS3, Angular, Typescript)
 
-  __Legacy eCommerce Application Modernization__
-  
-  Hired specifically for my expertise in legacy system optimization, I led the efforts to address various issues within a large, complex eCommerce application for KION, a webshop for buying or renting forklifts and parts.
-  
-  __Key Challenges and Solutions:__
-  
-  - __Complex Monorepo Architecture:__ Worked with a vast monorepo containing multiple libraries and clients, requiring careful management and refactoring to optimize performance and reduce complexity
-  - __Multi-Franchise, Dynamic UI:__ The application's multi-franchise nature required dynamic content rendering, with UI layouts and data components loading from the backend based on customer domain and configuration
-  - __SEO Compliance with Angular SSR:__ Integrated Angular Server-Side Rendering (SSR) to ensure the SPA adhered to SEO best practices, enabling search engine discoverability
-  - __Modernizing the Codebase:__ Led the effort to modernize the architecture, upgrading through four major Angular versions, while mentoring the team on RxJS, dependency injection, and best practices
-  - __Performance Optimization and Bug Reduction:__ Refined the monorepo structure, introducing professional second-entry-level sublibraries, reducing client size, and significantly minimizing bugs and technical debt
-  
-  This project showcases a strong ability to manage complex legacy systems, streamline architectures, and lead teams in optimizing both technical and operational aspects of large-scale applications.
+**Legacy eCommerce Application Modernization**
 
-  ---
+Hired specifically for my expertise in legacy system optimization, I led the efforts to address various issues within a large, complex eCommerce application for KION, a webshop for buying or renting forklifts and parts.
+
+**Key Challenges and Solutions:**
+
+- **Complex Monorepo Architecture:** Worked with a vast monorepo containing multiple libraries and clients, requiring careful management and refactoring to optimize performance and reduce complexity
+- **Multi-Franchise, Dynamic UI:** The application's multi-franchise nature required dynamic content rendering, with UI layouts and data components loading from the backend based on customer domain and configuration
+- **SEO Compliance with Angular SSR:** Integrated Angular Server-Side Rendering (SSR) to ensure the SPA adhered to SEO best practices, enabling search engine discoverability
+- **Modernizing the Codebase:** Led the effort to modernize the architecture, upgrading through four major Angular versions, while mentoring the team on RxJS, dependency injection, and best practices
+- **Performance Optimization and Bug Reduction:** Refined the monorepo structure, introducing professional second-entry-level sublibraries, reducing client size, and significantly minimizing bugs and technical debt
+
+This project showcases a strong ability to manage complex legacy systems, streamline architectures, and lead teams in optimizing both technical and operational aspects of large-scale applications.
+
+---
 
 - Tasks:
   - SPA/PWA WebClients and corresponding libraries (Angular 13~16 Typescript Rxjs, Angular Material)
