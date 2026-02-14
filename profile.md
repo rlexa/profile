@@ -63,6 +63,52 @@ Successfully collaborated within a multidisciplinary team, demonstrating strong 
 
 Chronologically descending.
 
+### 02/2026 - (now) **[SINC](https://www.sinc.de/)** (SPA Client with HTML5/CSS3, Angular, Typescript, C# Backend)
+
+**German Environment Agency's Single-Use Plastics Fund UX Solution ([see here](https://www.einwegkunststofffonds.de/))**
+
+As Angular frontend expert engineer refactored, modernized and implemented features for a highly complex multi-business-domain UX solution for tracking disposable single-use plastics fond process, including working on C# backend microservices.
+
+**Key Features and Capabilities:**
+
+- **Producer Domain:** UX for producers of one-way plastics, domestic or without establishment in Germany or authorized representatives thereof
+- **Beneficiary Domain:** UX for domestic beneficiaries of the fond
+- **Backoffice Domain:** UX for processing of the fonds finances, producers and beneficiaries
+
+**Technical Implementation:**
+
+- **Frontend:** A Backoffice single-page application (SPA) and a multi-domain (SPA) Angular 21 (at the time of entry) including shared libraries and other dependencies
+- **Backend Microservices:** Various backends and databases (C#)
+- **Monorepo:** All modules exist in a single repository started via Docker Compose
+
+This project demonstrates expertise by quickly onboarding into a large and complex frontend project (productive on second day) ensuring rapid productivity and high-quality contributions.
+
+- Tasks
+  - 2x SPA WebClient (Angular 21~ Typescript Rxjs, Angular Material)
+  - Backend Microservices (C#)
+  - Workshops and trainings for Typescript, Angular, RXJS, Functional Programming, Unit Testing Concepts
+  - Integration tests and E2E tests via Playwright
+- Info
+  - target audience:
+    - single-use plastics producer (domestic and out of country)
+    - beneficiaries (domestic communes)
+    - officials responsible for the fond processing
+  - management and controlling of fond finances
+- Orga
+  - Frontend Expert, monorepo team ~60 ppl.
+  - Fullstack frontend part (SPA, APIs, backend-to-backend)
+- Tech
+  - HTML5/CSS3 (SCSS)
+  - Angular 21~ (Javascript, Typescript)
+  - Rxjs, Signals
+  - LocalStorage, SessionStorage
+  - Angular Material
+  - Unit Testing and mocking via Jest, ng-mocks, ts-mockery
+  - Integration and E2E Testing via Playwright
+  - incl. working with authentication, translations and 3rd party libraries
+- Phase:
+  - product is live
+
 ### 05/2025 - 12/2025 **[Vonovia](https://www.vonovia.de/)** (SPA Client with HTML5/CSS3, Angular, Typescript, NodeJS Backend-for-Frontend)
 
 **Elevator Asset Management UX Solution**
@@ -102,6 +148,45 @@ This project demonstrates expertise by quickly onboarding into a large and compl
   - Angular Material
   - Unit Testing and mocking via Jest, ng-mocks, ts-mockery
   - incl. working with authentication, translations and a lot of 3rd party libraries
+- Phase:
+  - product is live
+
+### 05/2025 - 08/2025 **[Proofsafe](https://proofsafe.com/)** (SPA Client with HTML5/CSS3, Angular, Typescript)
+
+**Arboriculture Asset Management Solution**
+
+As a supporting Angular frontend expert engineer refactored, modernized and implemented features for a complex multi-brand UX solution for natural assets.
+
+**Key Features and Capabilities:**
+
+- **Angular Upgrade Preparation:** Worked on preparing to move to more modern Angular versions from the legacy version
+- **Forms for forms:** Highly complex forms for configuring actual dynamic end-customer forms
+- **Custom Visualization:** e.g. performance work on google maps
+- **Maintenance:** Added unit testing with Jest, refactored routing and added more modern patterns to state management
+- **Training:** Workshops for change detection, provider and state management in Angular, unit testing
+
+**Technical Implementation:**
+
+- **Frontend:** Single-page multi-brand application (SPA) Angular 20 and other dependencies
+
+This project demonstrates expertise by quickly onboarding into a large and complex frontend project and highly agile working in a startup environment.
+
+- Tasks
+  - SPA WebClient (Angular 20~ Typescript Rxjs, Angular Material)
+  - Workshops and trainings for Typescript, Angular, RXJS, Functional Programming, Unit Testing Concepts
+- Info
+  - target audience: asset manager
+  - asset data, geo-data
+- Orga
+  - Frontend Expert, frontend team 2 ppl.
+- Tech
+  - HTML5/CSS3 (SCSS)
+  - Angular 25~ (Javascript, Typescript)
+  - Rxjs
+  - LocalStorage
+  - Angular Material
+  - Unit Testing and mocking via Jest, ng-mocks, ts-mockery
+  - incl. working with 3rd party libraries
 - Phase:
   - product is live
 
@@ -161,7 +246,6 @@ In addition to the projects described below provided extensive support across a 
    Helped to design and led the implementation of the RWE corporation-wide "Unity" library, a comprehensive Angular utility library supporting teams across all RWE divisions in creating efficient, consistent, and scalable applications.
 
    **Key Features and Components:**
-
    - **Extensive Utilities:** Includes helper functions for dates, arrays, functional programming, reactive programming
    - **Reusable UI Components:** Comprehensive set of components for layout, forms, navigation
    - **Directives and Services:** Includes data watchers, title handlers, notifications, confirmation dialogs, and more
@@ -173,7 +257,6 @@ In addition to the projects described below provided extensive support across a 
 
    **Professional-Grade Implementation:**
    The library is designed with a modern, modular approach, incorporating second entry-point libraries similar to Angular Material. Features include:
-
    - **Showcase Application:** A dedicated app demonstrating and documenting all library capabilities for users
    - **Versioning and Documentation:** Maintained changelog and contribution guidelines to ensure transparency and collaboration
    - **Corporate Distribution:** Published to corporate NPM registries, enabling seamless integration across projects
@@ -187,7 +270,6 @@ In addition to the projects described below provided extensive support across a 
    Developed a specialized application for regulating energy-generating assets, designed as a dashboard solution to provide real-time insights and streamlined workflows for on-site operations.
 
    **Key Features and Capabilities:**
-
    - **Customizable Dashboard:** Displays a tailored view of registered assets, including current states, outages, upcoming deadlines, and dynamic line charts
    - **Outage Management:**
      - Dedicated interface for tracking and managing outages
@@ -211,7 +293,6 @@ In addition to the projects described below provided extensive support across a 
    Developed a tailored application for forecasting energy consumption, addressing complex, asset-specific rules based on commodity types such as gas and electricity.
 
    **Key Features and Capabilities:**
-
    - **Excel-Like Functionality:** Provides advanced table capabilities for numerical data entry and manipulation, ensuring precision and flexibility
    - **Rule-Based Customization:** Handles a variety of rule combinations specific to each commodity type, adapting seamlessly to diverse forecasting requirements
    - **Timezone Granularity:** Accurately manages timezone complexities, including correct handling of daylight saving transitions (e.g., summer and winter time in Germany)
@@ -228,7 +309,6 @@ In addition to the projects described below provided extensive support across a 
    Designed and developed an application for managing user portfolios, enabling the regulation of access to assets such as generators, areas, and energy delivery points.
 
    **Key Features and Capabilities:**
-
    - **Comprehensive Access Management:** Provides advanced tools for assigning and regulating user access based on assets, areas, and delivery points
    - **Complex Forms and Rules:** Features sophisticated forms and assignment logic to handle intricate access dependencies and configurations
    - **Streamlined UX Design:** Delivered a user-friendly interface that simplifies the presentation of exceptionally complex business dependencies
@@ -245,7 +325,6 @@ In addition to the projects described below provided extensive support across a 
    Developed an application designed for the external viewing of "curve" data, representing energy or trading number vectors.
 
    **Key Features and Capabilities:**
-
    - **Custom Data Presentation:** Delivered a dedicated, customized read-only interface optimized for visualizing complex "curve" data
    - **Tailored UX Design:** Focused on clarity and usability, ensuring external stakeholders could efficiently access and interpret the data
    - **User Authentication and Authorization:** Ensures secure access and role-based functionality
@@ -259,7 +338,6 @@ In addition to the projects described below provided extensive support across a 
    Developed a highly sophisticated application for generating business contracts, where each step dynamically adapts based on previous inputs, culminating in a draft contract tailored to specific requirements.
 
    **Key Features and Capabilities:**
-
    - **Administrative Module:**
      - Tools for configuring application users and managing contract counterparties (e.g., companies)
      - Complex forms for creating and managing counterparties and their associated metering points (e.g., wind parks)
@@ -285,7 +363,6 @@ In addition to the projects described below provided extensive support across a 
    Developed an application for managing energy assets, including wind parks, gas-powered generators, and other infrastructure.
 
    **Key Features and Capabilities:**
-
    - **Asset Management:** Provides detailed lists of assets with in-depth views for managing asset details
    - **Multi-Scope Form Handling:** Supports multiple form scopes with complex fields and robust validations
    - **Integrated Validation Flow:** Combines frontend form validators with backend-provided validation states, seamlessly incorporating these into a user-friendly experience
@@ -303,7 +380,6 @@ In addition to the projects described below provided extensive support across a 
    Developed an application designed to manage and administer various other applications, including portfolio registrations, user access, and asset maintenance.
 
    **Key Features and Capabilities:**
-
    - **Comprehensive Data Management:** Utilizes lists, tables, and detailed forms to handle diverse data inputs across multiple administrative functions
    - **Multi-Scope Administration:** Integrates various administrative domains (e.g., portfolio registrations, user access, asset management) under a unified user experience
    - **Complex Architecture:** Addressed the challenge of hosting multiple administration scopes within a single UX, requiring intricate architecture across backend, frontend, and API layers
