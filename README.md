@@ -1,5 +1,5 @@
 # Profile
 
-Repo contains documents and profile information for Alex Rempel (freelancer, "devdroy" company).
+Alex Rempel (devdroy) — Angular frontend architect and senior developer, 15+ years in production software, from enterprise Angular monorepos to trading-floor dashboards.
 
-[Go here for current work experience profile.](./profile.md)
+Curriculum vitae: [profile.md](profile.md) · contact: alexey.rempel@gmail.com
