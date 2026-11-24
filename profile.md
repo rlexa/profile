@@ -1,4 +1,4 @@
-# Angular Frontend Architect / Senior Developer
+# Angular Frontend Architect / Senior Developer · Agentic AI Delivery
 
 **Alex Rempel** (devdroy) · Master of Computer Science
 
@@ -8,11 +8,14 @@ Phone: +49 176 63088053 · Email: alexey.rempel@gmail.com · GitHub: https://git
 
 15+ years in software development, 7 focused on frontend architecture. Angular across enterprise eCommerce, asset management, energy trading and utility portals; comfortable on full-stack frontend (C#, Node.js BFF, Java Spring).
 
+Delivers in two modes: hand-written Angular architecture, and agentic delivery with Claude-class and locally hosted models under the same architecture, testing and review discipline.
+
 - Architecture for large Angular codebases: monorepos, shared/second-entry libraries, micro-frontends
 - Modernization of legacy Angular: major-version upgrades, routing and state refactoring, code generation from OpenAPI
 - Reactive UI engineering: RxJS and Signals, large data tables, dashboards, Excel-like editors
-- Quality: Jest/ng-mocks unit tests, Playwright integration and E2E tests
+- Quality: Vitest/Jest unit tests with ng-mocks, Playwright integration and E2E tests
 - Enablement: workshops and code reviews for junior and mid-level developers
+- Agent tooling: Claude Code and OpenCode harnesses, self-hosted models, agent skills and plugins, spec-driven workflows, repository-level guardrails
 
 ## Key achievements
 
@@ -20,6 +23,7 @@ Phone: +49 176 63088053 · Email: alexey.rempel@gmail.com · GitHub: https://git
 - **Dynamic form engine**: frontend lead for RWE "Contract Wizard" — delivered more than 220 context-sensitive forms plus the Excel-driven component generator behind them.
 - **Major-version upgrade programme**: led KION's eCommerce clients through four Angular major versions (13–16) and added Angular SSR for SEO (10-person team).
 - **Fast onboarding at scale**: productive on the second day inside a ~60-developer monorepo at SINC.
+- **Behavior-driven test model**: authored the specification-to-test chain in SINC's multi-app monorepo — Gherkin scenarios as the single source for the Playwright integration and E2E tests.
 
 ## Recent projects (2016–Present)
 
@@ -28,7 +32,21 @@ Phone: +49 176 63088053 · Email: alexey.rempel@gmail.com · GitHub: https://git
 UX solution for the German Environment Agency's single-use-plastics fund (live product): backoffice and multi-domain clients for producers, beneficiaries and fund finance.
 
 - Angular 21 SPA clients with shared libraries in a Docker Compose monorepo spanning three business domains; C# backend microservices and backend-to-backend work
-- Integration and E2E tests via Playwright, unit tests via Jest, ng-mocks and ts-mockery
+- Migrated the unit-test stack from Jest to Vitest; unit tests written with ng-mocks and ts-mockery, integration and E2E tests with Playwright
+- API clients generated from backend contracts instead of hand-written requests, including the backend-side work that produces and cleans up those contracts
+- Patterns introduced for the team: state management through injected services, form components that wrap Angular form elements, form services that map the backend data model to FormGroup and back
+- Proof-of-concept for a behavior-driven test model across the monorepo: Gherkin scenarios derived from the written specifications, one test file serving both the integration and the E2E variant with test-data setup as the only difference, interoperable with the existing suites and the CI pipeline
+- Agentic coding used in daily delivery: task briefs before implementation, test runs as the gate before hand-off
+
+### AI Engineer — own lab · 2026–Present
+
+Agent work on own hardware: open-weight models served locally, and the harness, skills and plugins built around them.
+
+- Quantized open-weight model served locally through an OpenAI-compatible endpoint, with reasoning-effort variants and token budgets configured per task
+- OpenCode configured as the harness: reasoning variants per model, delegated subagent runs, skills and plugins installed per repository
+- Skills and plugins in daily use: superpowers (spec-driven development — plans, design specs, per-task briefs), grillme (multi-round questioning to sharpen a specification that is not precise enough), graphify (codebase turned into a queryable knowledge graph)
+- Repository-level agent contract (AGENTS.md): editing rules, verification scripts and publish gates applied to every repository an agent touches
+- This CV rewritten end-to-end by an agent under that workflow: a 1091-line document rebuilt from a plan and a design spec, per-task briefs and review diffs, published tree verified byte-identical
 
 ### Frontend Expert — [Vonovia](https://www.vonovia.de/) · 2025 (May–Dec)
 
@@ -137,7 +155,7 @@ Long-running game and enterprise development work, condensed:
 |---|---|
 | Angular | Angular 2–22, AngularJS, RxJS, Signals, NgRX, Angular Material, PrimeNG, SSR, micro-frontends, monorepos and second-entry libraries |
 | Web | HTML5, CSS3/SCSS/Sass/Less, TypeScript, JavaScript, WebGL, animations, IndexedDB, Local/SessionStorage, WebSocket, PWA |
-| Testing | Jest, Karma/Jasmine, ng-mocks, ts-mockery, Playwright (integration and E2E) |
+| Testing | Vitest, Jest, Karma/Jasmine, ng-mocks, ts-mockery, Playwright (integration and E2E) |
 | Editors & graphics | Excel-like grids, charts (D3.js, ECharts), WYSIWYG editors, qooxdoo, layout engines, SVG renderers |
 
 | Backend & data | Details |
@@ -152,6 +170,12 @@ Long-running game and enterprise development work, condensed:
 | Roles | Architect, Technical/Team Lead, Senior developer, requirements engineering with product owners and end users |
 | Training | Topics: TypeScript, Angular, RxJS, functional programming and unit testing concepts; lectureship at HDA Darmstadt |
 | Languages | German, English, Russian (fluent) |
+
+| AI & agentic tooling | Details |
+|---|---|
+| Harnesses | Claude Code, OpenCode |
+| Model hosting | Quantized open-weight models served through local OpenAI-compatible endpoints |
+| Workflow | Spec-driven development; agent skills and plugins (superpowers, grillme, graphify); reasoning-effort and token-budget configuration; agent guardrails written as repository rules |
 
 ## Education
 
